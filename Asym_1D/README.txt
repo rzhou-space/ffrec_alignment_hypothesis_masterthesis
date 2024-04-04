@@ -4,7 +4,7 @@ Asym_1D file contains python files for asymmetric recurrent networks.
 1. AsymNetworks.py
 
 Contains four constructions for asymmetric recurrent interaction metrices.
-Generate eigenvalue distributions for Figure 2.3 and Figure 3.14.
+Generate eigenvalue distributions for Figure 2.3 and Figure 3.14 in the thesis.
 
 2. AsymOperations.py
 
@@ -18,7 +18,8 @@ Contains functions for comparisons between different symmetry in the interaction
 for one response property.
 For each response property exists one class for full-rank asymmetric matrices and one
 class for low-rank asymmetric matrices.
-For full-rank asymmetric matrices: generate the Figure 3.8, Figure 3.9, and Figure 3.10.
+For full-rank asymmetric matrices: generate the Figure 3.8, Figure 3.9, Figure 3.10, and 
+Figure 3.18. 
 For low-rank asymmetric matrices: generate the Figure 3.15 and Figure 3.16.
 
 4. FfrecAlign.py
